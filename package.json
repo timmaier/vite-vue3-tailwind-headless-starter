@@ -9,11 +9,9 @@
   "dependencies": {
     "@vueuse/core": "^9.10.0",
     "@vueuse/head": "^1.0.22",
-    "lit": "^2.4.0",
     "pinia": "^2.0.28",
     "sass": "^1.57.1",
     "sass-loader": "^13.2.0",
-    "tua-body-scroll-lock": "^1.2.1",
     "vue": "^3.2.45",
     "vue-router": "^4.1.6"
   },
